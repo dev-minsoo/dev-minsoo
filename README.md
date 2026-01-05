@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 🏅 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-minsoo&custom_title=개발민수%20Github%20Stat&show_icons=true&include_all_commits=true&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-minsoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
+<img src="https://github-readme-stats-rho-three-77.vercel.app/api?username=dev-minsoo&custom_title=개발민수%20Github%20Stat&show_icons=true&include_all_commits=true&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats-rho-three-77.vercel.app/api/top-langs?username=dev-minsoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minsoo010" alt="Solved.ac프로필"/>
 
 </div>

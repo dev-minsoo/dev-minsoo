@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## 📗 ETC
+## 📗 Post
 [![Blog Card](https://blog-readme-stats-one.vercel.app/api/blog/card?url=https://gotoendiamwin.tistory.com/rss&theme=dark)](https://gotoendiamwin.tistory.com)
 
 </div>

@@ -77,5 +77,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white">
 </div>
 
+---
+
+<div align="center">
+
+## 📗 ETC
+[![Blog Card](https://blog-readme-stats-one.vercel.app/api/blog/card?url=https://gotoendiamwin.tistory.com/rss&theme=dark)](https://gotoendiamwin.tistory.com)
+
+</div>
+
 
 </div>

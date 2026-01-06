@@ -28,9 +28,12 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 🏅 Stats
-<img src="https://github-readme-stats-rho-three-77.vercel.app/api?username=dev-minsoo&custom_title=개발민수%20Github%20Stat&show_icons=true&include_all_commits=true&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats-rho-three-77.vercel.app/api/top-langs?username=dev-minsoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minsoo010" alt="Solved.ac프로필"/>
+<div><img src="https://github-readme-streak-stats-ten-indol.vercel.app?user=dev-minsoo&theme=gruvbox&short_numbers=true" alt="GitHub Streak" /></div>
+<div>
+  <img src="https://github-readme-stats-rho-three-77.vercel.app/api?username=dev-minsoo&custom_title=개발민수%20Github%20Stat&show_icons=true&include_all_commits=true&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-rho-three-77.vercel.app/api/top-langs?username=dev-minsoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
+</div>
+<div><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minsoo010" alt="Solved.ac프로필"/></div>
 
 </div>
 
@@ -73,5 +76,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/nGrinder-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNTAiIGZpbGw9IiNGRjY2MDAiLz48dGV4dCB4PSI1MCIgeT0iNTUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIyNiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPm5HPC90ZXh0Pjwvc3ZnPg==&logoColor=white">
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white">
 </div>
-</div>
 
+
+</div>

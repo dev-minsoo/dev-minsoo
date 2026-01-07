@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 🏅 Stats
-<div><img src="https://github-readme-streak-stats-ten-indol.vercel.app?user=dev-minsoo&theme=gruvbox&short_numbers=true" alt="GitHub Streak" /></div>
+<div><img src="https://github-readme-streak-stats-ten-indol.vercel.app?user=dev-minsoo&theme=merko&short_numbers=true" alt="GitHub Streak" /></div>
 <div>
   <img src="https://github-readme-stats-rho-three-77.vercel.app/api?username=dev-minsoo&custom_title=개발민수%20Github%20Stat&show_icons=true&include_all_commits=true&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-rho-three-77.vercel.app/api/top-langs?username=dev-minsoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
